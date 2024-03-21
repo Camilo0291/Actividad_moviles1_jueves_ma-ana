@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practica</string>
+    <string name="app_name1">CALCULADORA BALDOSAS DE HABITACIÓN</string>
+    <string name="anchoHabitacion">Ancho de la habitación (Mt)</string>
+    <string name="largoHabitacion">Largo de la habitación (Mt)</string>
+    <string name="ancho_de_la_baldosa">Ancho de la baldosa (Cm)</string>
+    <string name="largo_de_la_baldosa">Largo de la baldosa (Cm)</string>
+    <string name="txtRespuesta">---</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtTitulo">Titulo</string>
+
+
+</resources>
